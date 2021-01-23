@@ -1,0 +1,3 @@
+html body.bg-full-screen-image{
+	background: url('../images/authentication/vuexy-login-bg.jpg') no-repeat center center;
+}

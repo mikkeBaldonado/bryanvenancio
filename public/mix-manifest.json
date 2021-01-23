@@ -1,0 +1,15 @@
+{
+    "/css/admin.min.css": "/css/admin.min.css",
+    "/js/admin.min.js": "/js/admin.min.js",
+    "/css/front.min.css": "/css/front.min.css",
+    "/js/front.min.js": "/js/front.min.js",
+    "/js/script.min.js": "/js/script.min.js",
+    "/js/theme.min.js": "/js/theme.min.js",
+    "/js/authentication.min.js": "/js/authentication.min.js",
+    "/css/authentication.min.css": "/css/authentication.min.css",
+    "/js/filereader.min.js": "/js/filereader.min.js",
+    "/webfonts/feather.eot": "/webfonts/feather.eot",
+    "/webfonts/feather.svg": "/webfonts/feather.svg",
+    "/webfonts/feather.ttf": "/webfonts/feather.ttf",
+    "/webfonts/feather.woff": "/webfonts/feather.woff"
+}

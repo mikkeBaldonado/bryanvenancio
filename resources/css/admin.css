@@ -1,0 +1,57 @@
+.card-img{
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice{
+    background-color: #007bff;
+}
+/*==========================================================*/
+.foobar{
+	width: 20px;
+	height: 20px;
+}
+.main-menu .navbar-header{
+	padding: 0.35rem 1rem 0.3rem 1rem;
+}
+.brand-title{
+	width: 100px;
+	padding-left: 10px;
+	font-size: 12pt;
+	color: #7367F0;
+}
+.store_logo{
+    /*width: 100%;*/
+    border-style: dashed;
+    border-color: #7367F0;
+    border-radius: 20px;
+    cursor: pointer;
+    text-align: center;
+    padding: 20px;
+}
+.store_logo p{
+    line-height: 1;
+}
+.store_logo > input{
+    top: 0;
+    left: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    cursor: pointer;
+}
+.store_logo img{
+    display: none;
+    width: 150px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    object-fit: cover;
+}
+#icon2{
+	width: 150px;
+	height: 150px;
+	color: #7367F0;
+}
